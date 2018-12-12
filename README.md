@@ -43,6 +43,7 @@ To contribute, fork this repository, add your amazing nugget and send a PR.
 
 ## Simple Prompts
 
+* [matchai/spacefish](https://github.com/matchai/spacefish) - A Fish Shell prompt for Astronauts.
 * [fisherman/metro](https://github.com/fisherman/metro) - Powerline prompt optimized for speed and space.
 * [rafaelrinaldi/pure](https://github.com/rafaelrinaldi/pure) - Port of the <samp>pure</samp> ZSH prompt to Fish.
 * [oh-my-fish/theme-bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - A Powerline-style, Git-aware fish theme optimized for awesome.
